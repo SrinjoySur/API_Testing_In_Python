@@ -1,3 +1,4 @@
+# Created by venv; see https://docs.python.org/3/library/venv.html
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
@@ -205,3 +206,4 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
