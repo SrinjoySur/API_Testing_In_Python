@@ -13,4 +13,3 @@ def test_GetPostsById(header):
     assert "id" in data
     assert "title" in data
     assert "body" in data
-     
